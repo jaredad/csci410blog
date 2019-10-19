@@ -8,6 +8,6 @@ This week I have downloaded and installed Linux on my personal laptop. I can boo
 
 
 ![image1](https://imgur.com/yCgVlGX.jpg)
-![image2](https://imgur.com/SoSrJ10.jpg)
 ![image3](https://imgur.com/uaDAhzc.jpg)
 ![image4](https://imgur.com/BL0Cs00.jpg)
+![image2](https://imgur.com/SoSrJ10.jpg)
